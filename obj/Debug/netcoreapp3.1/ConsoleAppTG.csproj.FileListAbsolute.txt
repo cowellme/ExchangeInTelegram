@@ -1,0 +1,17 @@
+D:\Rumil\ConsoleAppTG\bin\Debug\netcoreapp3.1\ConsoleAppTG.exe
+D:\Rumil\ConsoleAppTG\bin\Debug\netcoreapp3.1\ConsoleAppTG.deps.json
+D:\Rumil\ConsoleAppTG\bin\Debug\netcoreapp3.1\ConsoleAppTG.runtimeconfig.json
+D:\Rumil\ConsoleAppTG\bin\Debug\netcoreapp3.1\ConsoleAppTG.runtimeconfig.dev.json
+D:\Rumil\ConsoleAppTG\bin\Debug\netcoreapp3.1\ConsoleAppTG.dll
+D:\Rumil\ConsoleAppTG\bin\Debug\netcoreapp3.1\ConsoleAppTG.pdb
+D:\Rumil\ConsoleAppTG\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Rumil\ConsoleAppTG\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\Rumil\ConsoleAppTG\obj\Debug\netcoreapp3.1\ConsoleAppTG.csproj.AssemblyReference.cache
+D:\Rumil\ConsoleAppTG\obj\Debug\netcoreapp3.1\ConsoleAppTG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rumil\ConsoleAppTG\obj\Debug\netcoreapp3.1\ConsoleAppTG.AssemblyInfoInputs.cache
+D:\Rumil\ConsoleAppTG\obj\Debug\netcoreapp3.1\ConsoleAppTG.AssemblyInfo.cs
+D:\Rumil\ConsoleAppTG\obj\Debug\netcoreapp3.1\ConsoleAppTG.csproj.CoreCompileInputs.cache
+D:\Rumil\ConsoleAppTG\obj\Debug\netcoreapp3.1\ConsoleAppTG.csproj.CopyComplete
+D:\Rumil\ConsoleAppTG\obj\Debug\netcoreapp3.1\ConsoleAppTG.dll
+D:\Rumil\ConsoleAppTG\obj\Debug\netcoreapp3.1\ConsoleAppTG.pdb
+D:\Rumil\ConsoleAppTG\obj\Debug\netcoreapp3.1\ConsoleAppTG.genruntimeconfig.cache

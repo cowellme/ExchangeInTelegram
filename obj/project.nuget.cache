@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3TQizMdgJ++0ixhNuVrAY3r12FnLwvKxc62tdLXDFgeYv6WbFxr5C675VGBHqr8TNUixMii2XyHz0/o7uLJplw==",
+  "success": true,
+  "projectFilePath": "D:\\Rumil\\ConsoleAppTG\\ConsoleAppTG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rrove\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\rrove\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
